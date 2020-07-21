@@ -1,0 +1,28 @@
+﻿<Application x:Class="RAT.WPF.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:viewmodels="clr-namespace:RAT.WPF.ViewModels"
+             xmlns:views="clr-namespace:RAT.WPF.Views"
+             xmlns:local="clr-namespace:RAT.WPF">
+    <Application.Resources>
+
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="/Styles/Common.xaml"/>
+                
+            </ResourceDictionary.MergedDictionaries>
+
+            <DataTemplate DataType="{x:Type viewmodels:HomeViewModel}">
+                <views:HomeView/>
+            </DataTemplate>
+
+            <DataTemplate DataType="{x:Type viewmodels:PortfolioViewModel}">
+                <views:PortfolioView/>
+            </DataTemplate>
+
+         
+       
+        </ResourceDictionary>
+
+    </Application.Resources>
+</Application>
