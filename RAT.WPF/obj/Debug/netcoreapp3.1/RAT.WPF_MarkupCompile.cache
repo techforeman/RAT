@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1
 C:\Projekty\RAT\RAT.WPF\App.xaml
-7846435801
+8-1574729033
 
-17-560429634
-2121544715814
-Controls\NavigationBar.xaml;MainWindow.xaml;Styles\Common.xaml;Views\BuyView.xaml;Views\HomeView.xaml;Views\LoginView.xaml;Views\PortfolioView.xaml;
+181956189208
+214-1406857113
+basic_MainWindow.xaml;Controls\NavigationBar.xaml;MainWindow.xaml;Styles\Common.xaml;Views\BuyView.xaml;Views\HomeView.xaml;Views\LoginView.xaml;Views\PortfolioView.xaml;
 
 False
 

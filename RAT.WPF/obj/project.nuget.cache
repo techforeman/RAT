@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "2C7SVItaB37QtKOq090B//kueSiIL246+NU603hBbho6KkbgtaSM3B5Wihlr174HTDa2G2mlnzpzdQ30P6PQtQ==",
+  "dgSpecHash": "mlSRYnDnnu4ISW58YruwsGOnTdh7JLlsOwTLbnHtEsbRoDU/W29y+tExot7yXvOYJqf+0xDN3YN9u5mw7B42vg==",
   "success": true,
   "projectFilePath": "C:\\Projekty\\RAT\\RAT.WPF\\RAT.WPF.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\rober\\.nuget\\packages\\materialdesigncolors\\1.2.6\\materialdesigncolors.1.2.6.nupkg.sha512",
+    "C:\\Users\\rober\\.nuget\\packages\\materialdesignthemes\\3.1.3\\materialdesignthemes.3.1.3.nupkg.sha512",
     "C:\\Users\\rober\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\rober\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
     "C:\\Users\\rober\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

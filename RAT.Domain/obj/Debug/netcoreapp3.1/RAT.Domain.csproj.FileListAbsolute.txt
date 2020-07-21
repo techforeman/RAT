@@ -10,7 +10,6 @@ C:\Projekty\RAT.Domain\obj\Debug\netcoreapp3.1\RAT.Domain.csprojAssemblyReferenc
 C:\Projekty\RAT\RAT.Domain\bin\Debug\netcoreapp3.1\RAT.Domain.deps.json
 C:\Projekty\RAT\RAT.Domain\bin\Debug\netcoreapp3.1\RAT.Domain.dll
 C:\Projekty\RAT\RAT.Domain\bin\Debug\netcoreapp3.1\RAT.Domain.pdb
-C:\Projekty\RAT\RAT.Domain\obj\Debug\netcoreapp3.1\RAT.Domain.csprojAssemblyReference.cache
 C:\Projekty\RAT\RAT.Domain\obj\Debug\netcoreapp3.1\RAT.Domain.AssemblyInfoInputs.cache
 C:\Projekty\RAT\RAT.Domain\obj\Debug\netcoreapp3.1\RAT.Domain.AssemblyInfo.cs
 C:\Projekty\RAT\RAT.Domain\obj\Debug\netcoreapp3.1\RAT.Domain.csproj.CoreCompileInputs.cache

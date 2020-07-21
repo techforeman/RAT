@@ -125,8 +125,12 @@ C:\Projekty\RAT\RAT.WPF\obj\Debug\netcoreapp3.1\Views\PortfolioView.baml
 C:\Projekty\RAT\RAT.WPF\obj\Debug\netcoreapp3.1\RAT.WPF.g.resources
 C:\Projekty\RAT\RAT.WPF\obj\Debug\netcoreapp3.1\RAT.WPF.AssemblyInfoInputs.cache
 C:\Projekty\RAT\RAT.WPF\obj\Debug\netcoreapp3.1\RAT.WPF.AssemblyInfo.cs
-C:\Projekty\RAT\RAT.WPF\obj\Debug\netcoreapp3.1\RAT.WPF.csproj.CoreCompileInputs.cache
 C:\Projekty\RAT\RAT.WPF\obj\Debug\netcoreapp3.1\RAT.WPF.csproj.CopyComplete
 C:\Projekty\RAT\RAT.WPF\obj\Debug\netcoreapp3.1\RAT.WPF.dll
 C:\Projekty\RAT\RAT.WPF\obj\Debug\netcoreapp3.1\RAT.WPF.pdb
 C:\Projekty\RAT\RAT.WPF\obj\Debug\netcoreapp3.1\RAT.WPF.genruntimeconfig.cache
+C:\Projekty\RAT\RAT.WPF\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+C:\Projekty\RAT\RAT.WPF\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+C:\Projekty\RAT\RAT.WPF\obj\Debug\netcoreapp3.1\basic_MainWindow.g.cs
+C:\Projekty\RAT\RAT.WPF\obj\Debug\netcoreapp3.1\basic_MainWindow.baml
+C:\Projekty\RAT\RAT.WPF\obj\Debug\netcoreapp3.1\RAT.WPF.csproj.CoreCompileInputs.cache
